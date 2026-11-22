@@ -52,6 +52,7 @@ I focus on developing functional, responsive, and user-friendly applications. I 
 ## 🚀 Featured Projects
 
 ### 01. QR Code School Attendance System
+
 A web-based school attendance management system using QR Code technology.
 
 **Key Features**
@@ -63,26 +64,43 @@ A web-based school attendance management system using QR Code technology.
 
 **Tech:** Laravel · PHP · MySQL · JavaScript
 
-### 02. Nuurussalaam Information System
-A web-based information management project for an Islamic boarding school.
+---
 
-**Focus**
-- Administrative information management
-- User and role management
-- Organized school information
+### 🔵 02. Laravel Point of Sale (POS) System
 
-**Tech:** Laravel · PHP · MySQL · Bootstrap
+**Web-Based Cashier & Inventory Management System**
 
-### 03. Laravel Wallet
-A personal finance application for managing income and expenses.
+A web-based cashier application designed to simplify sales transactions, product management, and business operations.
 
-**Focus**
-- Income and expense transactions
-- Category management
-- Balance overview
-- Transaction history
+- Point of Sale (POS) transaction management
+- Product and category management
+- Inventory and stock monitoring
+- Supplier and customer management
+- Sales reports and transaction history
+- Cashier and administrator role management
+- Receipt printing support
 
-**Tech:** Laravel · PHP · MySQL · Bootstrap
+**Tech Stack:** `Laravel` `PHP` `MySQL` `JavaScript` `Bootstrap`
+
+---
+
+### 🟣 03. UMKM Business Website – Ciamis
+
+**Digital Business Profile & Product Showcase**
+
+A modern website concept designed to help Micro, Small, and Medium Enterprises (UMKM) in Ciamis establish an online presence and showcase their products.
+
+- Responsive business profile website
+- Product catalog and product details
+- Business information and contact section
+- Product gallery
+- Shopping cart interface
+- WhatsApp integration for customer inquiries and orders
+- Modern and user-friendly interface
+
+**Tech Stack:** `React` `Vite` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+---
 
 > Project descriptions can be expanded with screenshots, repository links, and live demos when available.
 

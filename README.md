@@ -167,7 +167,7 @@ A web-based school attendance system powered by QR Code technology.
 
 **Built with:** `Laravel` `PHP` `MySQL`
 
-<a href="https://github.com/kafiyan11/absensi-sekolah-qr">
+<a href="https://github.com/kafiyan11/Laravel-Point-of-Sale">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -196,7 +196,10 @@ A cashier and inventory management application for business operations.
 
 **Built with:** `Laravel` `PHP` `MySQL`
 
-<sub>Coming soon — repository in development.</sub>
+</a><a href="https://github.com/kafiyan11/dapur-galuh-ciamis">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 
 </td>
 <td width="50%" valign="top">

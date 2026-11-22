@@ -150,3 +150,81 @@ A modern website concept designed to help Micro, Small, and Medium Enterprises (
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4C1D95,100:090914&height=110&section=footer" width="100%" />
 </p>
+
+## 💎 Featured Repositories
+
+<p align="center">
+  <i>Selected projects that represent my journey in software development.</i>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 QR Code School Attendance
+
+A web-based school attendance system powered by QR Code technology.
+
+**Built with:** `Laravel` `PHP` `MySQL`
+
+<a href="https://github.com/kafiyan11/absensi-sekolah-qr">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 UMKM Business Website
+
+A modern digital platform concept for showcasing local businesses and products in Ciamis.
+
+**Built with:** `React` `TypeScript` `Tailwind CSS`
+
+<a href="https://github.com/kafiyan11/dapur-galuh-ciamis">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 Laravel Point of Sale
+
+A cashier and inventory management application for business operations.
+
+**Built with:** `Laravel` `PHP` `MySQL`
+
+<sub>Coming soon — repository in development.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my profile, skills, and development projects.
+
+**Built with:** `React` `TypeScript`
+
+<a href="https://github.com/kafiyan11/Portofolio-kafiyan">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<a href="https://portofolio-kafiyan.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/kafiyan11?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---

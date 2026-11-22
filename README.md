@@ -66,7 +66,7 @@ A web-based school attendance management system using QR Code technology.
 
 ---
 
-### 🔵 02. Laravel Point of Sale (POS) System
+###  02. Laravel Point of Sale (POS) System
 
 **Web-Based Cashier & Inventory Management System**
 
@@ -84,7 +84,7 @@ A web-based cashier application designed to simplify sales transactions, product
 
 ---
 
-### 🟣 03. UMKM Business Website – Ciamis
+###  03. UMKM Business Website – Ciamis
 
 **Digital Business Profile & Product Showcase**
 
@@ -137,6 +137,9 @@ A modern website concept designed to help Micro, Small, and Medium Enterprises (
   </a>
   <a href="https://instagram.com/kafiyan__">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://portofolio-kafiyan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 

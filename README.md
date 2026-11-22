@@ -1,16 +1,131 @@
-## Hi there 👋
+# 👨‍💻 Kafiyan Nurhidayah
 
-<!--
-**kafiyan11/kafiyan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Full Stack Developer` · `Software Engineering Enthusiast`
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090914,50:4C1D95,100:2563EB&text=KAFIYAN11&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descAlignY=65&descSize=15&animation=fadeIn" width="100%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/kafiyan11">
+    <img src="https://img.shields.io/badge/GitHub-kafiyan11-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-2563EB?style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ About Me
+
+Hello! I'm **Kafiyan Nurhidayah**, a Full Stack Developer and Informatics Engineering student who enjoys building web applications and exploring modern technologies.
+
+I focus on developing functional, responsive, and user-friendly applications. I enjoy learning new technologies, solving technical problems, and turning ideas into real digital products.
+
+- 💻 Interested in Full Stack Web Development
+- 🚀 Building applications with Laravel and JavaScript
+- 🗄️ Working with relational databases and backend systems
+- 🐧 Exploring Linux and open-source technologies
+- 📚 Continuously improving my software engineering skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,python,java,html,css" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 01. QR Code School Attendance System
+A web-based school attendance management system using QR Code technology.
+
+**Key Features**
+- Role-based access for Admin, Teachers, and Students
+- QR Code-based attendance
+- Check-in and check-out management
+- Attendance status and reporting
+- Student data management
+
+**Tech:** Laravel · PHP · MySQL · JavaScript
+
+### 02. Nuurussalaam Information System
+A web-based information management project for an Islamic boarding school.
+
+**Focus**
+- Administrative information management
+- User and role management
+- Organized school information
+
+**Tech:** Laravel · PHP · MySQL · Bootstrap
+
+### 03. Laravel Wallet
+A personal finance application for managing income and expenses.
+
+**Focus**
+- Income and expense transactions
+- Category management
+- Balance overview
+- Transaction history
+
+**Tech:** Laravel · PHP · MySQL · Bootstrap
+
+> Project descriptions can be expanded with screenshots, repository links, and live demos when available.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kafiyan11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090914&title_color=A78BFA&icon_color=60A5FA&text_color=E2E8F0" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafiyan11&layout=compact&theme=tokyonight&hide_border=true&bg_color=090914&title_color=A78BFA&text_color=E2E8F0" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kafiyan11&theme=tokyonight&hide_border=true&background=090914&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" width="100%" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Deepen my Laravel and backend development skills
+- Build scalable and maintainable web applications
+- Improve software architecture and database design
+- Explore modern frontend technologies
+- Contribute to open-source projects
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/kafiyan11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/kafiyan__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Great software is built one line of code at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4C1D95,100:090914&height=110&section=footer" width="100%" />
+</p>
